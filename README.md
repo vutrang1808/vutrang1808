@@ -66,6 +66,6 @@ A logical approach is followed; after each step, a short insight into the datase
 The dataset concerns electronic sales between 1999 and 2018 from Amazon.
 The dataset is available on [Kaggle](https://www.kaggle.com/datasets/edusanketdk/electronics/data).
 
-![Sales.png](./plots/Sales.png)
+![Sales.png](./pics/Sales.png)
 
-![PieChart_exploded.png](./plots/PieChart_exploded.png)
+![PieChart_exploded.png](./pics/PieChart_exploded.png)
