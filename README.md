@@ -51,7 +51,7 @@ The retention rate fluctuates over time but generally remains above 98\%, sugges
 
 While higher-paid areas generally exhibit higher retention rates, this trend does not consistently apply across all job titles. This highlights the need for a more detailed workforce analysis to tailor HR strategies beyond monetary aspects.
 
-## [Project 2: Amazon Electronic Products Sales](https://github.com/vutrang1808/amazon_electronic_products_sales)
+## [Project 2: Amazon Electronic Products Sales using Python](https://github.com/vutrang1808/amazon_electronic_products_sales)
 
 This notebook demonstrates a step-by-step sale analysis concerning a dataset of dimension 1.3M x 10. My solution is written in `Python` and utilizes `Pandas` as well as `Matplotlib` to visualize results.
 
