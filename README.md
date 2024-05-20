@@ -18,7 +18,7 @@ I am deeply passionate about using data to drive decision-making and am always s
 
 Below is the HR data analysis report summary. In this overview, I've examined a Human Resources dataset provided by [Zoomcharts - Drill Down Visuals for Power BI - Turn your reports into interactive experience](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/), presenting key insights from the HR Data Analysis dashboard.
 
-Data sheet is accessed on May $16^{th}$ 2024 and cloned to my project [here](add links).
+Data sheet is accessed on May $16^{th}$ 2024 and cloned to my project [here](https://github.com/vutrang1808/vutrang1808/blob/main/data/HR_Data_Analysis_English.xlsx).
 
 **Page 1**
 
