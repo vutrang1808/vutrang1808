@@ -100,3 +100,7 @@ By addressing the following queries, insights into various aspects of the input 
 ![Sales.png](./pics/Sales.png)
 
 ![PieChart_exploded.png](./pics/PieChart_exploded.png)
+
+## [Project 3: Financial Modeling with Microsoft Excel](https://github.com/vutrang1808/excel_financial_modeling)
+**Overview:**
+This project is designed to develop and solidify financial modeling concepts using Microsoft Excel. It offers a step-by-step guide to constructing an integrated financial model, aligned with a company’s investment planning process.
