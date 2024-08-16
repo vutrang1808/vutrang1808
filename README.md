@@ -102,5 +102,24 @@ By addressing the following queries, insights into various aspects of the input 
 ![PieChart_exploded.png](./pics/PieChart_exploded.png)
 
 ## [Project 3: Financial Modeling with Microsoft Excel](https://github.com/vutrang1808/excel_financial_modeling)
-**Overview:**
+
+### Purpose:
 This project is designed to develop and solidify financial modeling concepts using Microsoft Excel. It offers a step-by-step guide to constructing an integrated financial model, aligned with a company’s investment planning process.
+
+### Overview:
+The Excel-based tools developed in this project will guide users through the process of planning and analyzing a company investment, covering key financial metrics and statistical methods. The model includes the following key components:
+1. Historical Data Analysis
+2. Scenario Analysis
+3. Linear Regression Analysis
+4. Cash Flow Modeling
+5. Simulation
+
+### Key Learning Outcomes:
+ - Identify growth drivers from historical data using Excel.
+ - Apply discounted cash flow (DCF) analysis for investment evaluation.
+ - Implement Monte Carlo simulations to derive key financial assumptions.
+ - Develop detailed asset and debt schedule models in Excel.
+ - Leverage advanced features of Excel for financial analysis.
+ - Calculate profitability ratios using various profit metrics.
+
+My solution details are given in the [attached Excel sheet](https://github.com/vutrang1808/excel_financial_modeling/blob/main/Project_Vu.xlsm). 
