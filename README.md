@@ -65,6 +65,7 @@ The analysis aims to address the following questions:
 
 ### **1. DataFrame-based Approach**
 
+This approach is implemented in the script [`main.ipynb`](https://github.com/vutrang1808/amazon_electronic_products_sales/blob/main/main.ipynb).
 A systematic approach is followed throughout my analysis, with each step accompanied by insights into the dataset: 
 - **Data Cleaning:** 
 Data cleaning involved scanning the input dataset to identify columns where NaN values occupy the majority of rows.
@@ -103,7 +104,7 @@ By addressing the following queries, insights into various aspects of the input 
 ![PieChart_exploded.png](./pics/PieChart_exploded.png)
 
 ### **2. SQL-based Approach**
-This script `sql_based_approach.ipynb` demonstrates an approach that leverages a structured database schema using SQL for the data analysis task. 
+This script [`sql_based_approach.ipynb`](https://github.com/vutrang1808/amazon_electronic_products_sales/blob/main/sql_based_approach.ipynb) demonstrates an approach that leverages a structured database schema using SQL for the data analysis task. 
 MySQL is chosen as the underlying DBMS.
 
 ## [Project 3: Financial Modeling with Microsoft Excel](https://github.com/vutrang1808/excel_financial_modeling)
