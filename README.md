@@ -51,9 +51,10 @@ The retention rate fluctuates over time but generally remains above 98\%, sugges
 
 While higher-paid areas generally exhibit higher retention rates, this trend does not consistently apply across all job titles. This highlights the need for a more detailed workforce analysis to tailor HR strategies beyond monetary aspects.
 
-## [Project 2: Amazon Electronic Products Sales using Python](https://github.com/vutrang1808/amazon_electronic_products_sales)
+## [Project 2: Data Analysis using Python, pandas, and SQL](https://github.com/vutrang1808/amazon_electronic_products_sales)
 
-This notebook demonstrates a comprehensive sales analysis of an Amazon electronics products dataset with dimensions 1.3M x 10.
+This notebook demonstrates two approaches for a comprehensive sales analysis of an Amazon electronics products dataset with dimensions 1.3M x 10.
+The first approach utilizes Pandas DataFram and the second approach is based on SQL.
 
 The analysis aims to address the following questions:
 - What are the categories of electronic products?
@@ -62,7 +63,7 @@ The analysis aims to address the following questions:
 - Given a brand, identify the categories in which it has products.
 - Determine the categories with the highest market competition.
 
-## **Approach**
+### **1. DataFrame-based Approach**
 
 A systematic approach is followed throughout my analysis, with each step accompanied by insights into the dataset: 
 - **Data Cleaning:** 
@@ -75,11 +76,11 @@ Due to inconsistencies between the timestamp and year columns, the timestamp (in
 - **Data Processing:**
 The solution is implemented in `Python`, utilizing `Pandas` for data manipulation and `Matplotlib` for visualization.
 
-## **Dataset Details**
+### **Dataset Details**
 
 The dataset encompasses Amazon electronics sales data spanning from 1999 to 2018. It is available on [Kaggle](https://www.kaggle.com/datasets/edusanketdk/electronics/data).
 
-## **Analysis and Insights**
+### **Analysis and Insights**
 By addressing the following queries, insights into various aspects of the input dataset are gained:
 
 - **Categories of Electronic Products:**
@@ -100,6 +101,10 @@ By addressing the following queries, insights into various aspects of the input 
 ![Sales.png](./pics/Sales.png)
 
 ![PieChart_exploded.png](./pics/PieChart_exploded.png)
+
+### **2. SQL-based Approach**
+This script `sql_based_approach.ipynb` demonstrates an approach that leverages a structured database schema using SQL for the data analysis task. 
+MySQL is chosen as the underlying DBMS.
 
 ## [Project 3: Financial Modeling with Microsoft Excel](https://github.com/vutrang1808/excel_financial_modeling)
 
